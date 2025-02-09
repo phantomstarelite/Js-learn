@@ -10,6 +10,7 @@ console.log("Pratik");
 let name = "Pratik" 
 let age = 18
 let isLoggedIn = true
+let isWorking = null
 
 // number => 2 to power 53
 // bigInt 
@@ -23,7 +24,7 @@ let isLoggedIn = true
 
 console.log(typeof "Pratik");
 console.log(typeof age);
-console.log(typeof null);
+console.log(typeof isWorking);
 console.log(typeof undefined)
 
 
