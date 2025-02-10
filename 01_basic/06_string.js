@@ -1,6 +1,5 @@
 const name = "pratik"
-const repoCount = 5
-
+// const repoCount = 5
 // console.log(name + repoCount + " Value");
 
 console.log(`Hello my name is ${name} and my repo count is ${repoCount}`);
@@ -26,7 +25,7 @@ const newStringOne = "   pratik  "
 console.log(newStringOne);
 console.log(newStringOne.trim());
 
-const url = "https://pratik20khumkar.com"
+let url = "https://pratik20khumkar.com"
 
 url.replace('20', '-')
 console.log(url);
