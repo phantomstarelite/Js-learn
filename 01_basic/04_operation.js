@@ -16,7 +16,12 @@ let str3 = str1 + str2
 let gameCounter = 100
 ++gameCounter;
 
+
 console.log(gameCounter);
+gameCounter++;
+
+new_value = gameCounter;
+console.log(new_value);
 
 
 
