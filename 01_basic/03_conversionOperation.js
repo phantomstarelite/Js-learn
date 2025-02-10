@@ -22,10 +22,20 @@
 // "" => false
 // "Pratik" => true
 
-let someNumber = 33
-let stringNumber = String(someNumber)
-console.log(stringNumber)
-console.log(typeof stringNumber)
+// let someNumber = 33
+// let stringNumber = String(someNumber)
+// console.log(stringNumber)
+// console.log(typeof stringNumber)
+
+let name = "Pratik"
+console.log(name);
+console.log(typeof name);
+
+let new_value = Number(name)
+console.log(typeof new_value);
+console.log(new_value);
+
+
 
 
 
